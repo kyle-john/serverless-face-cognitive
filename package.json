@@ -1,0 +1,23 @@
+{
+  "name": "serverless-face-cognitive",
+  "version": "1.0.0",
+  "description": "With Azure!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-john/serverless-face-cognitive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyle-john/serverless-face-cognitive/issues"
+  },
+  "homepage": "https://github.com/kyle-john/serverless-face-cognitive#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "pug": "^2.0.3"
+  }
+}
